@@ -1,0 +1,39 @@
+1625718852771	geckodriver	INFO	Listening on 127.0.0.1:57002
+1625718855752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ssrk1\\AppData\\Local\\Temp\\rust_mozprofile2aPheo"
+1625718935604	geckodriver	INFO	Listening on 127.0.0.1:65224
+1625718938742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ssrk1\\AppData\\Local\\Temp\\rust_mozprofileMtZgpY"
+1625718940582	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssrk1\\AppData\\Local\\Temp\\rust_mozprofileMtZgpY\\search.json.mozlz4", (void 0)))
+1625718949572	Marionette	INFO	Listening on port 65232
+1625718950930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1625718969292	Marionette	INFO	Stopped listening on port 65232
+1625718972717	geckodriver	INFO	Listening on 127.0.0.1:53788
+1625718975709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ssrk1\\AppData\\Local\\Temp\\rust_mozprofilebAK9pK"
+1625718977275	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssrk1\\AppData\\Local\\Temp\\rust_mozprofilebAK9pK\\search.json.mozlz4", (void 0)))
+1625718986054	Marionette	INFO	Listening on port 53796
+1625718986851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625718995465	Marionette	INFO	Stopped listening on port 53796
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1625719031335	geckodriver	INFO	Listening on 127.0.0.1:53849
+1625719034386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ssrk1\\AppData\\Local\\Temp\\rust_mozprofilelJKwGT"
+1625719035699	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssrk1\\AppData\\Local\\Temp\\rust_mozprofilelJKwGT\\search.json.mozlz4", (void 0)))
+1625719043962	Marionette	INFO	Listening on port 53857
+1625719045298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1625719061770	Marionette	INFO	Stopped listening on port 53857
+1625719064360	geckodriver	INFO	Listening on 127.0.0.1:53919
+1625719067336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ssrk1\\AppData\\Local\\Temp\\rust_mozprofilejSgaaB"
+1625719068813	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssrk1\\AppData\\Local\\Temp\\rust_mozprofilejSgaaB\\search.json.mozlz4", (void 0)))
+1625719077364	Marionette	INFO	Listening on port 53927
+1625719078737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625719085694	Marionette	INFO	Stopped listening on port 53927
+[Parent 1640, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
