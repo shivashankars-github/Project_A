@@ -1,5 +1,5 @@
-from A_Project_1one.PageObjects.HomePage import HomePage
-from A_Project_1one.Utilities.BaseClass import BaseClass
+from Project_A.PageObjects.HomePage import HomePage
+from Project_A.Utilities.BaseClass import BaseClass
 
 
 class TestCaseOne(BaseClass):

@@ -1,8 +1,8 @@
 import pytest
 
-from A_Project_1one.PageObjects.HomePage import HomePage
-from A_Project_1one.TestData.HomePageData import Homepagedata
-from A_Project_1one.Utilities.BaseClass import BaseClass
+from Project_A.PageObjects.HomePage import HomePage
+from Project_A.TestData.HomePageData import Homepagedata
+from Project_A.Utilities.BaseClass import BaseClass
 
 
 class TestCaseTwo(BaseClass):
